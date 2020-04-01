@@ -28,4 +28,4 @@ Here are our current rules:
 - Rule 9 {Level 1,2,3} Use common sense. Just because there isn't a rule here, doesn't mean it gives you the ok to do things that are unacceptable
 
 ## Joining
-You can join the server [here](https://discord.gg/5qu4Mr9)
+You can join the server [here](https://discord.gg/5qu4Mr9).
