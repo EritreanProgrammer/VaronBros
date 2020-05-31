@@ -1,31 +1,30 @@
 ## Welcome
-VaronBros Community is a Discord server for Varon's YT Channel.
+VaronBros Community is a Discord server for people who like technology and gaming. 
 
-## Rules
-There are three levels to our rule system.
-1. Warning
-2. Warning/Kick
-3. Kick/Ban
+## Rules and Info
+1.) Use common sense.
 
-Here are our current rules:
+2.) Be nice to other members. Nobody wants drama here.
 
-- Rule 1: {Level  3} No NSFW. 
+3.) All memes and shitposting is to be in #random. Posting memes or other shitpost-related content will result in a removal and warning, then a strike, and a ban if it becomes consistent 
 
-- Rule 2: {Level 2/ Possibly Level 3} Don't be annoying/instigate drama. If someone is asking you to stop being annoying or doing something to them that just makes them mad, don't do it. 
+4.) Avoid posting NSFW or gore. Any post results in an instant ban and report to Discord's T&S. Nobody wants to feel uncomfortable.
 
-- Rule 3: {Level 1} Don't backseat moderate this server. However, if something is wrong and it's important, notify the staff team immediately.
+5.) Discrimination or racial attacks are strictly forbidden. We all come from different places of the world. Please respect each others values.
 
-- Rule 4: {Level 2} When you are asking for a suggestion about the server in #varonbros-suggestions, please keep it polite. Negativity is condemned, and nobody does not like taking a spit in the face.
+6.) Repeat Self Promotion in #media is not allowed. Only 1 Discord server invite per year. 
 
-- Rule 5: {Level 2} Whoever asks to be staff will be warned, and repeated actions will result in a kick. (When joking, please clarify or make it seem obvious that you're trying to be funny or make a joke)
 
-- Rule 6: { Level 1/2/3} Do not attempt to break the Discord ToS here. Self explanatory. https://discordapp.com/terms
-
-- Rule 7: {Level 3} IP grabbing or threats is frowned upon, and such things will be taken to law enforcement, and not Discord.
-
-- Rule 8 {Level 2} Be respectful. No matter who it is, your friend, your enemy, someone you don't know, just respect them. It's ok to fool around, but if the person doesn't find it funny, just don't be a pain in the butt to them. 
-
-- Rule 9 {Level 1,2,3} Use common sense. Just because there isn't a rule here, doesn't mean it gives you the ok to do things that are unacceptable
+Official VaronBros Website: https://varonbros.weebly.com/
+Secondary VaronBros Website: https://varonbros.com/
+Official VaronBros invite: https://discord.gg/v7unJx8
+My YouTube Channel: https://www.youtube.com/channel/UC0UASP7ToqBr1uUIvGDcWvw/
+My Twitch Channel: https://www.twitch.tv/varonbrosgaming
+My Instagram Page: https://www.instagram.com/varon.bros/
+My  Twitter Page: https://twitter.com/VaronBros
+My FaceBook Page: https://www.facebook.com/varon.bros.5
+My PayPal Page (Donations aren't required, but I would be thankful for them :slight_smile: ): https://paypal.me/VaronBrosProductions
+Feedback Form: https://forms.gle/aDr7QuAnmNCTSfGw7
 
 ## Joining
-You can join the server [here](https://discord.gg/5qu4Mr9).
+You can join the server [here](https://discord.gg/v7unJx8).
